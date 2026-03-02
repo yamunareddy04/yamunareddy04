@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**yamunareddy04/yamunareddy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yamuna Reddy
 
-Here are some ideas to get you started:
+🎓 Electronics & Communication Engineering Graduate (2025)
+📊 Aspiring Data Analyst passionate about turning data into meaningful insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills
+
+SQL – Data querying, joins, aggregations
+
+Power BI – Interactive dashboards & data visualization
+
+Excel – Data cleaning, analysis, Pivot Tables, formulas
+
+Tableau – Visual analytics & reporting
+
+🚀 Projects
+
+Worked on real-world data analysis projects involving data cleaning, visualization, and business insights using SQL, Power BI, Excel, and Tableau.
